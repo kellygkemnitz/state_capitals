@@ -1,0 +1,84 @@
+{
+    "A": [
+        "Albany",
+        "Annapolis",
+        "Atlanta",
+        "Augusta",
+        "Austin"
+    ],
+    "B": [
+        "Baton Rouge",
+        "Bismarck",
+        "Boise",
+        "Boston"
+    ],
+    "C": [
+        "Carson City",
+        "Charleston",
+        "Cheyenne",
+        "Columbia",
+        "Columbus",
+        "Concord"
+    ],
+    "D": [
+        "Denver",
+        "Des Moines",
+        "Dover"
+    ],
+    "F": [
+        "Frankfort"
+    ],
+    "H": [
+        "Harrisburg",
+        "Hartford",
+        "Helena",
+        "Honolulu"
+    ],
+    "I": [
+        "Indianapolis"
+    ],
+    "J": [
+        "Jackson",
+        "Jefferson City",
+        "Juneau"
+    ],
+    "L": [
+        "Lansing",
+        "Lincoln",
+        "Little Rock"
+    ],
+    "M": [
+        "Madison",
+        "Montgomery",
+        "Montpelier"
+    ],
+    "N": [
+        "Nashville"
+    ],
+    "O": [
+        "Oklahoma City",
+        "Olympia"
+    ],
+    "P": [
+        "Phoenix",
+        "Pierre",
+        "Providence"
+    ],
+    "R": [
+        "Raleigh",
+        "Richmond"
+    ],
+    "S": [
+        "Sacramento",
+        "Saint Paul",
+        "Salem",
+        "Salt Lake City",
+        "Santa Fe",
+        "Springfield"
+    ],
+    "T": [
+        "Tallahassee",
+        "Topeka",
+        "Trenton"
+    ]
+}

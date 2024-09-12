@@ -1,1 +1,1 @@
-# state_capitals
+During trivia night, one of the questions was in regards to which of 4 listed cities was the only true state capital to begin with the letter 'F'. Our team was curious as to which starting letters where the most common, and although AI could handle this question very quickly, I thought I would write a little Python script for it.
